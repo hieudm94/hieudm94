@@ -3,13 +3,27 @@
 
  
 ## 🌐Socials
-<a href="https://www.facebook.com/profile.php" target="blank">
+
+
+
+<table style="width:100%;">
+  <tr>
+    <td width="60%">
+     <a href="https://www.facebook.com/profile.php" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="doanminhhieu-facebook" />
- </a>
+</a>
  
- <a href="https://mail.google.com/mail" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="doanminhhieu-email" />
-  </a>
+<a href="https://mail.google.com/mail" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="doanminhhieu-email"  />
+</a>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -19,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hieudm94&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hieudm94&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudm94&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
