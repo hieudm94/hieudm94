@@ -41,6 +41,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hieudm94&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<a href="https://github.com/hieudm94/FIVERR-CS">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=FIVERR-CS&theme=highcontrast" />
+</a> 
+
 <!--
 **hieudm94/hieudm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
