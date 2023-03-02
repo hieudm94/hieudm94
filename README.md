@@ -46,9 +46,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=FIVERR-CS&theme=highcontrast" />
 </a> 
-<a href="https://github.com/hieudm94/Masterword">
+<a href="https://github.com/hieudm94/FIVERR-CS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=MASTERWORD-JS&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=FIVERR-CS&theme=highcontrast" />
 </a> 
 
 <!--
