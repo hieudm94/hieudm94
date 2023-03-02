@@ -52,7 +52,7 @@
 </a> 
 <a href="https://github.com/hieudm94/Masterword">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=Masterword&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieudm94&repo=Masterword&theme=chartreuse-dark" />
 </a> 
 <a href="https://github.com/hieudm94/Shoping">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
